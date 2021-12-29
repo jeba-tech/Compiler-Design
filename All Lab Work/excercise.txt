@@ -1,0 +1,8 @@
+1. Find if the given input string is a valid identifer
+
+2. Find the Operators from the Given Input string c code
+
+3. Determine whether the Given Input is Comment or Not
+
+Big Assignment:
+1. Take an input, e.g int a = b + 1c; and identify the tokens (valid token with typename, and invalid tokens).

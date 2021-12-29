@@ -1,0 +1,3 @@
+Hello Everyone! 
+This is a vowel & consonant checking problem.
+We are looser as we didn't check the solution in the previous lab document-2.
